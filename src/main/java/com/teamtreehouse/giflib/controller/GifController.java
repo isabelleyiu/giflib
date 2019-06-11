@@ -32,4 +32,5 @@ public class GifController {
     return "gif-details";
   }
 
+
 }
